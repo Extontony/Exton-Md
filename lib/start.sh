@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Gifted-Md!"
+echo "Starting EXTON-Md!"
 node .
 done
